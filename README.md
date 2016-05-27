@@ -14,7 +14,7 @@ A drawback to automatically created websites is there are a lot or presumptions 
 
 ***
 
-# [Corky's Content](https://corkysdevshop.com/blog/)
+# [Corky's Content](http://www.corkysdevshop.com/blog/)
 Everything below is a staging area for resources before they go to the blog. Tag these resources in blog posts.
 
 * [Blog Resources](https://corkysdevshop.wordpress.com/category/resources/)

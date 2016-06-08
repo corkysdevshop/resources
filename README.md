@@ -66,13 +66,25 @@ Everything below is a staging area for resources before they go to the blog. Tag
 * [Meteor kitchen](http://www.meteorkitchen.com/)
 
 ## E-Commerce
-* [WooCommerce](https://www.woothemes.com/woocommerce/): for wordpress
 * [Reaction Commerce](https://reactioncommerce.com/)
 * [Zen cart](https://www.zen-cart.com/)
 * Open cart: easy for end user and dev
 * Magento: complex, but flexible
 * 3d cart: self hosted with customer support
 * shopify: self hosted with customer support
+
+##### Wordpress
+* [WooCommerce](https://www.woothemes.com/woocommerce/): for wordpress
+* [WP eCommerce](https://wpecommerce.org/)
+* [Jigoshop](https://www.jigoshop.com/)
+* [Shopp](https://shopplugin.net/)
+* [ithemes](https://ithemes.com/exchange/)
+* [MarketPress](https://premium.wpmudev.org/project/e-commerce/)
+* [Wordpress eCommerce Plugins](https://wordpress.org/plugins/search.php?q=ecommerce)
+* [Cart66](https://cart66.com/)
+* [Simple Paypal](https://wordpress.org/plugins/wordpress-simple-paypal-shopping-cart/)
+* [Easy Digital Downloads](https://easydigitaldownloads.com/)
+
 
 ## Frameworks and APIs
 * [django](https://www.djangoproject.com/)

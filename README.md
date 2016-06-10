@@ -78,6 +78,7 @@ Everything below is a staging area for resources before they go to the blog. Tag
  * [WooCommerce Extentions](https://www.woothemes.com/product-category/woocommerce-extensions/)
  * [Code Canyon](http://codecanyon.net/category/wordpress/ecommerce/woocommerce)
  * [Wordpress for WooCommerce](https://wordpress.org/plugins/search.php?q=woocommerce)
+ * [Woocommerce for ios](https://www.woothemes.com/woocommerce-ios/)
 * [WP eCommerce](https://wpecommerce.org/)
 * [Jigoshop](https://www.jigoshop.com/)
 * [Shopp](https://shopplugin.net/)

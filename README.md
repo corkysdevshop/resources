@@ -97,6 +97,7 @@ Everything below is a staging area for resources before they go to the blog. Tag
 
 ## Finding Work
 * [Remote base.io](https://remotebase.io/)
+* [Y Combinator Startup Resources](https://www.ycombinator.com/resources/)
 
 ## Micro-tips
 * Set your search settings to return only content created in the last year

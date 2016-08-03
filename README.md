@@ -45,6 +45,7 @@ Everything below is a staging area for resources before they go to the blog. Tag
 * [learnyounode](https://github.com/workshopper/learnyounode)
 * [streamadventure](https://github.com/substack/stream-adventure)
 * [GraphQL](https://learngraphql.com/)
+* [Skill share](https://www.skillshare.com/)
 
 ### Git
 * [Learn Git in 30 minutes](http://tutorialzine.com/2016/06/learn-git-in-30-minutes/)
@@ -89,6 +90,8 @@ Everything below is a staging area for resources before they go to the blog. Tag
 * [Simple Paypal](https://wordpress.org/plugins/wordpress-simple-paypal-shopping-cart/)
 * [Easy Digital Downloads](https://easydigitaldownloads.com/)
 
+##### Javascript
+* [Draft.js](https://facebook.github.io/draft-js/)
 
 ## Frameworks and APIs
 * [django](https://www.djangoproject.com/)
@@ -127,7 +130,7 @@ Everything below is a staging area for resources before they go to the blog. Tag
 * Intuit
 
 ## iOS
-* [App Presser](https://apppresser.com/)The #1 way to convert your WordPress website into an iOS and Android mobile app. Build in WordPress, deploy to the app stores. Easy and affordable. 
+* [App Presser](https://apppresser.com/)The #1 way to convert your WordPress website into an iOS and Android mobile app. Build in WordPress, deploy to the app stores. Easy and affordable.
 
 ## Other
 * Web audio

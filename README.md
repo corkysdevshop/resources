@@ -65,6 +65,7 @@ Everything below is a staging area for resources before they go to the blog. Tag
 * [JotForm](https://www.jotform.com/)
 * [OverAPI](http://overapi.com/)
 * [Meteor kitchen](http://www.meteorkitchen.com/)
+* [Docracy](http://www.docracy.com/)
 
 ## E-Commerce
 * [Reaction Commerce](https://reactioncommerce.com/)
